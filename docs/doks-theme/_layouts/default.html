@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		{% include site-head.html %}
+	</head>
+	<body class="{{ site.doks.color_theme }}">
+		{% include site-header.html %}
+		<section class="section">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-3">
+					  {% include micro-nav.html %}
+					</div>
+					<div class="col-lg-9">
+						<div id="content" class="content">
+							<h2 class="content__title">{{page.title}}</h2>
+							<p class="subtitle content__desc">{{page.description}}</p>
+							{{ content }}
+							{% if page.page_nav.prev.content or page.page_nav.next.content %}
+							<div class="page-nav">
+								{% if page.page_nav.prev.content %}
+								<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ page.page_nav.prev.url }}" class="page-nav__item page-nav__item--prev">
+									<span>←</span>
+									<span class="page-nav__text">{{ page.page_nav.prev.content }}</span>
+								</a>
+								{% endif %}
+								{% if page.page_nav.next.content %}
+								<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ page.page_nav.next.url }}" class="page-nav__item page-nav__item--next">
+									<span class="page-nav__text">{{ page.page_nav.next.content }}</span>
+									<span>→</span>
+								</a>
+								{% endif %}
+							</div>
+							{% endif %}
+						</div><!-- /.content -->
+					</div><!-- /.col -->
+				</div><!-- /.row -->
+			</div><!-- /.container -->
+		</section><!-- /.section -->
+		{% if jekyll.environment == "production" and page.comments == true and site.doks.comments.disqus_forum_shortname %}
+			<div class="section section--grey">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-7">
+							{% include comments.html %}
+						</div><!-- /.col -->
+					</div><!-- /.row -->
+				</div><!-- /.container -->
+			</div><!-- /.section -->
+		{% endif %}
+		{% include site-footer.html %}
+	</body>
+</html>

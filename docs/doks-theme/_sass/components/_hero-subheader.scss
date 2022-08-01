@@ -1,0 +1,136 @@
+/**
+ * Hero subheader (components/_hero-subheader.scss)
+ */
+
+/* ----- General ----- */
+.hero-subheader {
+	color: $color-black;
+	background-color: $color-theme-blue;
+	padding: 6.5rem 0 (4.6875rem - 1.25rem) 0;
+
+	@media (min-width: $screen-sm-min) {
+		padding: 9.375rem 0 (10.3125rem - 1.25rem) 0;
+	}
+
+	.btn {
+		margin-right: .9375rem;
+		margin-bottom: 2.25rem;
+	}
+
+	.btn--github,
+	.btn--w-arrow-down {
+		@extend .btn--dark;
+		padding: 1rem 2.1875rem;
+		@media (min-width: $screen-sm-min) {
+			padding: .8125rem 2.1875rem;
+		}
+	}
+
+	.site-header + & {
+		padding: 0 0 (4.6875rem - 1.25rem) 0;
+
+		@media (min-width: $screen-sm-min) {
+			padding: 11.25rem 0 13rem 0;
+		}
+	}
+}
+
+.hero-subheader--before-out {
+	@media (min-width: $screen-sm-min) {
+		padding: 9.375rem 0 (15.3125rem - 1.25rem) 0;
+	}
+}
+
+/* ----- Title ----- */
+.hero-subheader__title {
+	margin-top: 0;
+	font-size: 36px;
+	line-height: 48px;
+	margin-bottom: (0.9375rem - 0.1875rem);
+	@media (min-width: $screen-xs-min) {
+		font-size: 64px;
+		line-height: 88px;
+	}
+}
+
+#hero-article{
+	padding-top: 0;
+	padding-bottom: 0;
+	@media (min-width: $screen-sm-min){
+		padding-top: 11.25rem;
+		padding-bottom: 6rem;
+	}
+}
+
+#article-hero-wrapper{
+	width: 320px;
+	@media (min-width: $screen-sm-min){
+		width: 720px;
+	}
+	@media (min-width: $screen-lg-min){
+		width: 1224px;
+	}
+}
+
+#hero-mobile {
+	@media (max-width: $screen-sm-min){
+		padding-left: 0px;
+	}
+}
+
+#article-burger{
+	margin-bottom: 1.5rem;
+}
+
+.align-container{
+	width: 100%;
+}
+
+.hero-subheader__icon {
+	width: 64px;
+	float: none;
+	margin-top: 10px;
+	margin-right: 0;
+	margin-left: 0;
+	margin-bottom: 20px;
+	border:none;
+	@media (min-width: $screen-sm-min){
+		width: 80px;
+		float: right;
+		margin-right: 15px;
+		margin-left: 15px;
+		margin-bottom: 0;
+	}
+	@media (min-width: $screen-lg-min){
+		width: 128px;
+		float: right;
+		margin-top: -14px;
+		margin-right: 15px;
+		margin-bottom: 0;
+	}	
+}
+
+/* ----- Description ----- */
+.hero-subheader__desc {
+	margin-bottom: 2rem;
+	font-size: 18px;
+}
+
+/* ----- Author ----- */
+.hero-subheader__author {
+	border-left: 2px solid;
+	padding-left: 2.5rem;
+
+	.btn {
+		margin-bottom: 0;
+	}
+}
+
+.hero-subheader__author-title {
+	font-size: $font-size-h5;
+}
+
+/* ----- More ----- */
+.hero-subheader__btn-more {
+	color: inherit;
+}

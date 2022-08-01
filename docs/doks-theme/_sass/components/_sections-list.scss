@@ -1,0 +1,80 @@
+/**
+ * Sections list (components/_sections-list.scss)
+ */
+
+/* ----- General ----- */
+.sections-list {
+	float: left;
+	margin-top: 4rem;
+}
+
+/* ----- Wrapper ----- */
+.sections-list-wrapper {
+	width: 100%;
+}
+
+/* ----- Affix ----- */
+.sections-list.affix {
+	position: fixed;
+	top: 0;
+}
+
+.sections-list.affix-bottom {
+	position: absolute;
+}
+
+/* ----- List ----- */
+.sections-list {
+	ul {
+		ul {
+			margin-top: 3px;
+			margin-bottom: 0;
+		}
+
+		li {
+			margin-bottom: -1px;
+			border-left: 1px solid #D8D8D8;
+			line-height: 32px;
+			transition: border .2s, color .2s;
+
+			&.active {
+				border-left-color: #F85555;
+				a{
+					&.active{
+						color: #F85555;
+					}
+				}
+			}
+
+			&.has-submenu {
+				padding-right: 1.25rem;
+				color: $color-black;
+				> ul {
+					display: none;
+				}
+
+				li{
+					font-size: 16px;
+				}
+
+				&.active {
+					&::after {
+						color: #F85555;
+					}
+					> ul {
+						display: block;
+					}
+				}
+			}
+
+			&::before {
+				display: none;
+			}
+
+			a {
+				@include link-reset;
+				color: #24282A
+			}
+		}
+	}
+}

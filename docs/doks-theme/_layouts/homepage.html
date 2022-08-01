@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		{% include site-head.html %}
+	</head>
+	<body class="{{ site.doks.color_theme }}">
+		{% include site-header.html %}
+		<section class="main-homepage-section section">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-3">
+					  {% include micro-nav.html %}
+					</div>
+					<div class="col-lg-9">
+						{% if page.title %}
+							<h1 class="main-homepage-section__title">{{ page.title }}</h1>
+						{% endif %}
+						{% if page.description %}
+							<p class="main-homepage-section__desc subtitle">{{ page.description }}</p>
+						{% endif %}
+						{% for button in page.buttons %}
+							{% if button.external_url == true %}
+							<a href="{{ button.url }}" class="btn btn--dark btn--big">
+								<i class="icon icon--github"></i>
+								{{ button.content }}
+							</a>
+							{% else %}
+							<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ button.url }}" class="btn btn--dark btn--big">
+								{% if button.icon %}<i class="icon icon--{{ button.icon }}"></i>{% endif %}
+								{{ button.content }}
+							</a>
+							{% endif %}
+							{% if page.grid_navigation %}
+							<div class="section--grid-navigation">
+								<div class="nav-grid">
+									{% for item in page.grid_navigation %}
+											<div class="nav-grid__card">
+												<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ item.url }}" class="nav-grid__item">
+													<div class="nav-grid__content">
+														<img src="https://img.icons8.com/windows/96/000000/{{ item.icon }}.png" class="nav-grid__logo">
+														<div class="nav-grid__title h5">{{ item.title }}</div>
+														<div class="nav-grid__desc">{{ item.excerpt }}</div>
+													</div>
+												</a>
+											</div>
+										{% endfor %}
+								</div>
+							</div>
+							{% endif %}
+						{% endfor %}
+					</div>
+				</div>
+			</div>
+		</section>
+	{% include site-footer.html %}
+	</body>
+</html>
