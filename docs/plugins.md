@@ -5,9 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: About Icons8 web-app
-description: Everything you need to know about Icons
-icon: 'lunacy'
+title: About Icons8 Figma plugins
+description: Everything you need to know about Icons8 Figma plugins
 
 # Micro navigation
 micro_nav: false
