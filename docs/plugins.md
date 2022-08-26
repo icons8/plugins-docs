@@ -1,3 +1,24 @@
+---
+# Page settings
+layout: default
+keywords:
+comments: false
+
+# Hero section
+title: About Icons8 web-app
+description: Everything you need to know about Icons
+icon: 'lunacy'
+
+# Micro navigation
+micro_nav: false
+
+# Page navigation
+page_nav:
+    next:
+        content: System requirements
+        url: '/sysreq'
+---
+
 # Icons8 Figma Plugins
 
 Welcome to the help page for Icons8 Figma Plugins: **Icons8 — icons, illustrations, photos**, **Material Design Icons** and **Icons8 Background Remover**. All three of those plugins will broaden your toolkit, speed up your workflow and generally make your Figma experience smoother. Let’s dive right in!
