@@ -31,7 +31,12 @@ Choose the plugin you want to install and click the 'Try it out button:
 * [Material Design Icons](https://www.figma.com/community/plugin/740272380439725040/Material-Design-Icons). Contains only material design icons library;
 * [Icons8 Background Remover](https://www.figma.com/community/plugin/997643096679511216/). Background removal tool.
 
+<p align="center">
+  <img width="700" height="348" src="/public/1.1_Plugins.png">
+</p>
+
 To run a plugin right-click anywhere on the artboard or the editor, hover over ‘Plugins’ in the menu and select a plugin:
+
 <br>
 ## Icons8 — icons, illustrations, photos
 
