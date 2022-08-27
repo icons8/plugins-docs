@@ -57,23 +57,39 @@ You can search for icons, photos, and illustrations by keywords via the search b
 
 You can also browse icons by topic. For this, click on the **folder button** and choose a **category**:
 
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.2_Categories.mp4" type="video/mp4"></video>
+
 Use tabs to switch between icons, illustrations, and photos:
+
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.3_Icons8_Switch.mp4" type="video/mp4"></video>
 
 Find visually consistent icons by selecting **styles**:
 
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.4_Styles.mp4" type="video/mp4"></video>
+
 Illustrations search works similarly – you can sort illustrations by **categories**:
+
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.5_Categories (1).mp4" type="video/mp4"></video>
 
 And by **styles** too:
 
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.6_Illustrations Search Styles.mp4" type="video/mp4"></video>
+
 You can also sort illustrations by **categories and styles at once** – this option will become available if you choose ‘Categories’ first:
 
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.7_Icons8_Ilustrations.mp4" type="video/mp4"></video>
+
 As for photo search, you can turn on different filters (gender, age, category, etc.) by clicking on the icon in the right corner of the search bar:
+
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.8_Icons8_Photo.mp4" type="video/mp4"></video>
 
 ### Other features
 
 **How to transfer assets to canvas?**
 
 You can transfer icons, photos and illustrations by clicking on them once. It’s also possible to place icons on your canvas by drag’n’dropping them:
+
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.9_Canvas.mp4" type="video/mp4"></video>
 
 **How to change the size of an icon?**
 
