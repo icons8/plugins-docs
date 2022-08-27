@@ -37,7 +37,10 @@ Choose the plugin you want to install and click the 'Try it out button:
 
 To run a plugin right-click anywhere on the artboard or the editor, hover over ‘Plugins’ in the menu and select a plugin:
 
-<br>
+<p align="center">
+  <img width="998" height="644" src="/public/1.2_Plugins.png">
+</p>
+
 ## Icons8 — icons, illustrations, photos
 
 **Icons8 — icons, illustrations, photos** is our Figma plugin which has a library of icons, photos, and illustrations:
