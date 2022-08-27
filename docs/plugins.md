@@ -38,7 +38,7 @@ Choose the plugin you want to install and click the 'Try it out button:
 To run a plugin right-click anywhere on the artboard or the editor, hover over ‘Plugins’ in the menu and select a plugin:
 
 <p align="center">
-  <img width="998" height="644" src="/public/1.2_Plugins.png">
+  <img width="auto" height="auto" src="/public/1.2_Plugins.png">
 </p>
 
 ## Icons8 — icons, illustrations, photos
@@ -52,6 +52,8 @@ To run a plugin right-click anywhere on the artboard or the editor, hover over �
 ### Search
 
 You can search for icons, photos, and illustrations by keywords via the search bar located at the top of the plugin window. To add an asset to your artboard, click on it or drag and drop it onto the canvas:
+
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/images/overlaydragnew2.mp4" type="video/mp4"></video>
 
 You can also browse icons by topic. For this, click on the **folder button** and choose a **category**:
 
