@@ -32,7 +32,7 @@ Choose the plugin you want to install and click the 'Try it out button:
 * [Icons8 Background Remover](https://www.figma.com/community/plugin/997643096679511216/). Background removal tool.
 
 <p align="center">
-  <img wwidth="auto" height="auto" src="/public/1.1_Plugins.png">
+  <img width="auto" height="auto" src="/public/1.1_Plugins.png">
 </p>
 
 To run a plugin right-click anywhere on the artboard or the editor, hover over ‘Plugins’ in the menu and select a plugin:
