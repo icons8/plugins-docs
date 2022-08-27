@@ -53,7 +53,7 @@ To run a plugin right-click anywhere on the artboard or the editor, hover over â
 
 You can search for icons, photos, and illustrations by keywords via the search bar located at the top of the plugin window. To add an asset to your artboard, click on it or drag and drop it onto the canvas:
 
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/images/overlaydragnew2.mp4" type="video/mp4"></video>
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.1_Icons8_Search.mp4" type="video/mp4"></video>
 
 You can also browse icons by topic. For this, click on the **folder button** and choose a **category**:
 
