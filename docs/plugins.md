@@ -194,7 +194,7 @@ Our Background Remover Figma plugin will allow you to remove background from one
 Select one picture or a batch, or simply everything you have on canvas:
 
 <p align="center">
-  <img width="auto" height="auto" src="/public/1.9_Remover.png">
+  <img width="auto" height="auto" src="/public/1.11_Remover.png">
 </p>
 
 Run the Background Remover from the **Plugins** menu:
@@ -206,7 +206,7 @@ Run the Background Remover from the **Plugins** menu:
 Get images without backgrounds, but with the original image size and quality:
 
 <p align="center">
-  <img width="auto" height="auto" src="/public/1.11_Remover.png">
+  <img width="auto" height="auto" src="/public/1.9_Remover.png">
 </p>
 
 <br>
