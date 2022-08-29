@@ -210,4 +210,4 @@ Get images without backgrounds, but with the original image size and quality:
 </p>
 
 <br>
-In case you want to use Background Remover outside of Figma, we also have a *[web application](https://icons8.com/bgremover) with the same functionality.
+In case you want to use Background Remover outside of Figma, we also have a * [web application](https://icons8.com/bgremover) with the same functionality.
