@@ -95,15 +95,27 @@ You can transfer icons, photos and illustrations by clicking on them once. It’
 
 Adjust icon size in the drop-down next to the icon style. The size that you choose will be automatically applied to all icons:
 
+<p align="center">
+  <img width="auto" height="auto" src="/public/1.3_Change.png">
+</p>
+
 **How to switch between formats?**
 
 The dropdown next to the size menu will allow you to choose between PNG and SVG formats. The SVG format is a paid option that allows scaling and editing. There are three categories that have free SVGs: Popular, Characters, and Logos.
+
+<p align="center">
+  <img width="auto" height="auto" src="/public/1.4_Format.png">
+</p>
 
 > Keep in mind that commercial usage of icons from Logo and Characters categories should be discussed with the owners of respective trademarks.
 
 **Is it possible to recolour icons?**
 
 You can adjust icon colours right from the plugin. Just click on the color circle and choose an option from the default ones or create your own colour. Please take note that it’s not possible to recolour styles that are already in colour:
+
+<p align="center">
+  <img width="auto" height="auto" src="/public/1.5_Recolor.png">
+</p>
 
 ### License
 
@@ -121,9 +133,15 @@ Material Design Icons is a Figma plugin that has more than 35,000 icons in PNG a
 
 Search by keywords via the search bar located at the top of the plugin window. To add icons to your artboard, drag and drop them or click them once:
 
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.10_Material Search.mp4" type="video/mp4"></video>
+
 To find visually consistent icons, switch between icon styles with the help of the drop-down on the left:
 
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.11_Material Style.mp4" type="video/mp4"></video>
+
 As for categories, you can find them in the ☰ menu:
+
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.12_Material_Categories.mp4" type="video/mp4"></video>
 
 ### Other features
 
@@ -131,19 +149,33 @@ As for categories, you can find them in the ☰ menu:
 
 You can transfer icons to your canvas by clicking once or by drag’n’dropping:
 
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.13_canvas material.mp4" type="video/mp4"></video>
+
 **How to change the size of an icon?**
 
 Adjust icon size in the drop-down next to the icon style. The size that you choose will be automatically applied to all icons:
 
+<p align="center">
+  <img width="auto" height="auto" src="/public/1.6_Size.png">
+</p>
+
 **How to switch between formats?**
 
 Use the dropdown next to icon size to choose between PNG and SVG formats. The latter is a paid format, but there are three categories that have free SVGs – Popular, Characters, and Logos:
+
+<p align="center">
+  <img width="auto" height="auto" src="/public/1.7_Format.png">
+</p>
 
 > Keep in mind that commercial usage of icons from Logo and Characters categories should be discussed with the rightful owners of respective trademarks.
 
 **Is it possible to recolour icons?**
 
 You can also adjust icon colours right from the plugin. Just click on the color circle and choose an option from the default ones or create your colour. Please take note that it’s not possible to recolour styles that are already in colour:
+
+<p align="center">
+  <img width="auto" height="auto" src="/public/1.8._Color.png">
+</p>
 
 ### License
 
@@ -161,9 +193,21 @@ Our Background Remover Figma plugin will allow you to remove background from one
 
 Select one picture or a batch, or simply everything you have on canvas:
 
+<p align="center">
+  <img width="auto" height="auto" src="/public/1.9_Remover.png">
+</p>
+
 Run the Background Remover from the **Plugins** menu:
 
+<p align="center">
+  <img width="auto" height="auto" src="/public/1.10_Remover.png">
+</p>
+
 Get images without backgrounds, but with the original image size and quality:
+
+<p align="center">
+  <img width="auto" height="auto" src="/public/1.11_Remover.png">
+</p>
 
 <br>
 In case you want to use Background Remover outside of Figma, we also have a [web application](https://icons8.com/bgremover) with the same functionality.
