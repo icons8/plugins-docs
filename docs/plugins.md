@@ -119,7 +119,7 @@ You can adjust icon colours right from the plugin. Just click on the color circl
 
 ### License
 
-There are both free and paid assets in our plugin. Professional users prefer SVG format that provides unlimited scaling and editing. In order to download this format you need one of our subscription plans, check them out here.
+There are both free and paid assets in our plugin. Professional users prefer SVG format that provides unlimited scaling and editing. In order to download this format you need one of our subscription plans, check them out [here](https://icons8.com/pricing).
 
 You can also download and use icons, illustrations and photos without purchasing them if you add attribution. More info on how to do this here.
 
@@ -179,7 +179,7 @@ You can also adjust icon colours right from the plugin. Just click on the color 
 
 ### License
 
-There are both free and paid assets in our plugin. Professional users prefer SVG format that provides unlimited scaling and editing. In order to download this format you need one of our subscription plans, check them out here.
+There are both free and paid assets in our plugin. Professional users prefer SVG format that provides unlimited scaling and editing. In order to download this format you need one of our subscription plans, check them out [here](https://icons8.com/pricing).
 
 You can also download and use icons, illustrations and photos without purchasing them if you add attribution. More info on how to do this here.
 
