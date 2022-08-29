@@ -114,7 +114,7 @@ The dropdown next to the size menu will allow you to choose between PNG and SVG 
 You can adjust icon colours right from the plugin. Just click on the color circle and choose an option from the default ones or create your own colour. Please take note that it’s not possible to recolour styles that are already in colour:
 
 <p align="center">
-  <img width="auto" height="auto" src="/public/1.5_Recolor.png">
+  <img width="auto" height="auto" src="/public/1.5._Recolor.png">
 </p>
 
 ### License
