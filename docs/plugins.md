@@ -25,7 +25,7 @@ Welcome to the help page for Icons8 Figma Plugins: **Icons8 — icons, illustrat
 
 ## Installation
 
-Choose the plugin you want to install and click the 'Try it out button:
+Choose the plugin you want to install and click the 'Try it out' button:
 
 * [Icons8 — icons, illustrations, photos](https://www.figma.com/community/plugin/791103617505812222/). Contains all three types of graphics;
 * [Material Design Icons](https://www.figma.com/community/plugin/740272380439725040/Material-Design-Icons). Contains only material design icons library;
@@ -35,10 +35,16 @@ Choose the plugin you want to install and click the 'Try it out button:
   <img width="auto" height="auto" src="/public/1.1_Plugins.png">
 </p>
 
-To run a plugin right-click anywhere on the artboard or the editor, hover over ‘Plugins’ in the menu and select a plugin:
+To run a plugin right-click anywhere on the artboard or the editor, hover over ‘Plugins’ in the menu and select a plugin: 
 
 <p align="center">
   <img width="auto" height="auto" src="/public/1.2_Plugins.png">
+</p>
+
+You can also open it from the dropdown in the top-left corner:
+
+<p align="center">
+  <img width="auto" height="auto" src="/public/1.2.1_Plugins.png">
 </p>
 
 ## Icons8 — icons, illustrations, photos
@@ -85,13 +91,13 @@ As for photo search, you can turn on different filters (gender, age, category, e
 
 ### Other features
 
-**How to transfer assets to canvas?**
+**Transferring assets to canvas?**
 
 You can transfer icons, photos and illustrations by clicking on them once. It’s also possible to place icons on your canvas by drag’n’dropping them:
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.9_Canvas.mp4" type="video/mp4"></video>
 
-**How to change the size of an icon?**
+**Changing the size of an icon?**
 
 Adjust icon size in the drop-down next to the icon style. The size that you choose will be automatically applied to all icons:
 
@@ -99,7 +105,7 @@ Adjust icon size in the drop-down next to the icon style. The size that you choo
   <img width="auto" height="auto" src="/public/1.3_Change.png">
 </p>
 
-**How to switch between formats?**
+**Switching between formats?**
 
 The dropdown next to the size menu will allow you to choose between PNG and SVG formats. The SVG format is a paid option that allows scaling and editing. There are three categories that have free SVGs: Popular, Characters, and Logos.
 
@@ -107,11 +113,11 @@ The dropdown next to the size menu will allow you to choose between PNG and SVG 
   <img width="auto" height="auto" src="/public/1.4_Format.png">
 </p>
 
-> Keep in mind that commercial usage of icons from Logo and Characters categories should be discussed with the owners of respective trademarks.
+> Keep in mind that commercial usage of icons from Logo and Characters categories should be permitted by the rightful owners of respective trademarks.
 
-**Is it possible to recolour icons?**
+**Recoloring icons**
 
-You can adjust icon colours right from the plugin. Just click on the color circle and choose an option from the default ones or create your own colour. Please take note that it’s not possible to recolour styles that are already in colour:
+You can adjust icon colors right from the plugin. Just click on the color circle and choose an option from the default ones or create your own color. Please take note that it’s not possible to recolor styles that are already in color:
 
 <p align="center">
   <img width="auto" height="auto" src="/public/1.5._Recolor.png">
@@ -145,13 +151,13 @@ As for categories, you can find them in the ☰ menu:
 
 ### Other features
 
-**How to transfer icons to canvas?**
+**Transferring icons to canvas**
 
 You can transfer icons to your canvas by clicking once or by drag’n’dropping:
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.13_canvas material.mp4" type="video/mp4"></video>
 
-**How to change the size of an icon?**
+**Changing the size of an icon**
 
 Adjust icon size in the drop-down next to the icon style. The size that you choose will be automatically applied to all icons:
 
@@ -159,7 +165,7 @@ Adjust icon size in the drop-down next to the icon style. The size that you choo
   <img width="auto" height="auto" src="/public/1.6_Size.png">
 </p>
 
-**How to switch between formats?**
+**Switching between formats**
 
 Use the dropdown next to icon size to choose between PNG and SVG formats. The latter is a paid format, but there are three categories that have free SVGs – Popular, Characters, and Logos:
 
@@ -167,11 +173,11 @@ Use the dropdown next to icon size to choose between PNG and SVG formats. The la
   <img width="auto" height="auto" src="/public/1.7_Format.png">
 </p>
 
-> Keep in mind that commercial usage of icons from Logo and Characters categories should be discussed with the rightful owners of respective trademarks.
+> Keep in mind that commercial usage of icons from Logo and Characters categories should be permitted by the rightful owners of respective trademarks.
 
-**Is it possible to recolour icons?**
+**Recoloring icons**
 
-You can also adjust icon colours right from the plugin. Just click on the color circle and choose an option from the default ones or create your colour. Please take note that it’s not possible to recolour styles that are already in colour:
+You can also adjust icon colors right from the plugin. Just click on the color circle and choose an option from the default ones or create your color. Please take note that it’s not possible to recolor styles that are already in color:
 
 <p align="center">
   <img width="auto" height="auto" src="/public/1.8._Color.png">
@@ -189,7 +195,7 @@ You can also download and use icons, illustrations and photos without purchasing
 
 Our Background Remover Figma plugin will allow you to remove background from one or many images at once. Here’s how you can do it.
 
-### How to Remove Background
+### Removing background
 
 Select one picture or a batch, or simply everything you have on canvas:
 
@@ -203,11 +209,11 @@ Run the Background Remover from the **Plugins** menu:
   <img width="auto" height="auto" src="/public/1.10_Remover.png">
 </p>
 
-Get images without backgrounds, but with the original image size and quality:
+Get images without backgrounds, but with the original image size and quality. Keep in mind that Background Remover works with images up to 5MB:
 
 <p align="center">
   <img width="auto" height="auto" src="/public/1.9_Remover.png">
 </p>
 
 <br>
-In case you want to use Background Remover outside of Figma, we also have a [web app]((https://icons8.com/bgremover) with the same functionality.
+In case you want to use Background Remover outside of Figma, we also have a [web app]((https://icons8.com/bgremover) with the extended functionality.
