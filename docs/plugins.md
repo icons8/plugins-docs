@@ -91,13 +91,13 @@ As for photo search, you can turn on different filters (gender, age, category, e
 
 ### Other features
 
-**Transferring assets to canvas?**
+**Adding assets to canvas**
 
-You can transfer icons, photos and illustrations by clicking on them once. It’s also possible to place icons on your canvas by drag’n’dropping them:
+You can add icons, photos and illustrations by clicking on them once. It’s also possible to place icons on your canvas by drag’n’dropping them:
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.9_Canvas.mp4" type="video/mp4"></video>
 
-**Changing the size of an icon?**
+**Changing the size of an icon**
 
 Adjust icon size in the drop-down next to the icon style. The size that you choose will be automatically applied to all icons:
 
@@ -105,7 +105,7 @@ Adjust icon size in the drop-down next to the icon style. The size that you choo
   <img width="auto" height="auto" src="/public/1.3_Change.png">
 </p>
 
-**Switching between formats?**
+**Switching between formats**
 
 The dropdown next to the size menu will allow you to choose between PNG and SVG formats. The SVG format is a paid option that allows scaling and editing. There are three categories that have free SVGs: Popular, Characters, and Logos.
 
@@ -151,9 +151,9 @@ As for categories, you can find them in the ☰ menu:
 
 ### Other features
 
-**Transferring icons to canvas**
+**Adding icons to canvas**
 
-You can transfer icons to your canvas by clicking once or by drag’n’dropping:
+You can add icons to your canvas by clicking once or by drag’n’dropping:
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.13_canvas material.mp4" type="video/mp4"></video>
 
