@@ -123,6 +123,11 @@ You can adjust icon colors right from the plugin. Just click on the color circle
   <img width="auto" height="auto" src="/public/1.5._Recolor.png">
 </p>
 
+Here's how you can add a 'lock' icon to your locked screen mockup with those features:
+
+
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/Icons8_Demo.mp4" type="video/mp4"></video>
+
 ### License
 
 There are both free and paid assets in our plugin. Professional users prefer SVG format that provides unlimited scaling and editing. In order to download this format you need one of our subscription plans, check them out [here](https://icons8.com/pricing).
