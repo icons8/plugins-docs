@@ -220,5 +220,9 @@ Get images without backgrounds, but with the original image size and quality. Ke
   <img width="auto" height="auto" src="/public/1.9_Remover.png">
 </p>
 
+Here's a quick video of removing background from the image on a mobile browser mockup:
+
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/BG Remover_Demo.mp4" type="video/mp4"></video>
+
 <br>
 In case you want to use Background Remover outside of Figma, we also have a [web app]((https://icons8.com/bgremover) with the extended functionality.
