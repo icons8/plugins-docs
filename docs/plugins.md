@@ -188,6 +188,10 @@ You can also adjust icon colors right from the plugin. Just click on the color c
   <img width="auto" height="auto" src="/public/1.8._Color.png">
 </p>
 
+As you can see, working with icons from our Material Design is pretty easy. Here's an example:
+
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/Material_Demo.mp4" type="video/mp4"></video>
+
 ### License
 
 There are both free and paid assets in our plugin. Professional users prefer SVG format that provides unlimited scaling and editing. In order to download this format you need one of our subscription plans, check them out [here](https://icons8.com/pricing).
