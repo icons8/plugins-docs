@@ -1,5 +1,5 @@
 doks:
-    baseurl: /plugins-docs/
+    baseurl: /plugins-docs
     color_theme: blue
     micro_nav:
     - title: About
