@@ -15,13 +15,14 @@ doks:
         nav:
             - item_name: Documentation
               item_url: /
-            - item_name: Request Features
-              item_url: https://lunatics.icons8.com/
+            - item_name: Icons
+              item_url: https://icons8.com
               external_url: true
-            - item_name: Release Notes
-              item_url: /release-notes/
+            - item_name: Blog
+              item_url: https://blog.icons8.com
+              external_url: true
             - item_name: Forum
-              item_url: https://community.icons8.com/c/lunacy/
+              item_url: https://community.icons8.com
               external_url: true
 
 
