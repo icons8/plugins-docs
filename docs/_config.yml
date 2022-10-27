@@ -3,9 +3,9 @@ doks:
     color_theme: blue
     micro_nav:
     - title: About
-      url: '/about'
-    - title: Demo
-      url: '/demo'
+      url: '/'
+    # - title: Demo
+    #   url: '/demo'
 
 
     header:
