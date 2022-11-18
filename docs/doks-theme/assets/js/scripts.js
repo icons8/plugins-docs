@@ -275,10 +275,14 @@
 			changeHrefOnScroll(href);
 		}
 		if (activeLinkSubMenu) {
-			document.querySelector(".submenu [href*='#" + activeLinkSubMenu.id + "']").closest("li").classList.add('active')
-			let href = location.protocol + '//' + location.hostname + (location.port ? ":" + location.port : "") + document.location.pathname + "#" + activeLinkSubMenu.id;
-			changeHrefOnScroll(href);
-			document.querySelector(".js-subheader").innerText = document.querySelector(".submenu [href*='#" + activeLinkSubMenu.id + "']").innerText
+			try {
+				document.querySelector(".submenu [href*='#" + activeLinkSubMenu.id + "']").closest("li").classList.add('active')
+				let href = location.protocol + '//' + location.hostname + (location.port ? ":" + location.port : "") + document.location.pathname + "#" + activeLinkSubMenu.id;
+				changeHrefOnScroll(href);
+				document.querySelector(".js-subheader").innerText = document.querySelector(".submenu [href*='#" + activeLinkSubMenu.id + "']").innerText
+			} catch (error) {
+				console.log("Can't mark submenu active item")
+			}
 		}
 		
 	})
