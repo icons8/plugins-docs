@@ -2,7 +2,7 @@ name: "[Search] Build and publish search index"
 
 on:
   push:
-    branches: ['master']
+    branches: ['main']
 
 
 jobs:
