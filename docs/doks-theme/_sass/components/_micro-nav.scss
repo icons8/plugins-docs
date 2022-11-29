@@ -128,6 +128,9 @@ ul.submenu {
 		a {
 			color: #000000;
 			padding-left: 19px;
+			&.header {
+				font-weight: 600;
+			}
 		}
 		& + li {
 			margin-top: 0;

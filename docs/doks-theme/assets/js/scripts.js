@@ -332,7 +332,8 @@ function createNavSubMenu() {
 		}
 		let array = []
 		for (let index = 0; index < items.length; index++) {
-			array.push( '<li><a href="#' + items[index].id + '" class="js-smooth-scroll">' + items[index].innerText + '</a></li>' )
+			let customClass = items[index].tagName === 'H2' ? 'header' : ''
+			array.push( '<li><a href="#' + items[index].id + '" class="js-smooth-scroll ' + customClass + '">' + items[index].innerText + '</a></li>' )
 		}
 	
 		return '<ul class="submenu">' + array.join('') + '</ul>';
