@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: About Icons8 Figma plugins
-description: Everything you need to know about Icons8 Figma plugins
+title:
+description:
 icon:
 
 # Micro navigation
