@@ -18,6 +18,7 @@ micro_nav: false
 #         content: System requirements
 #         url: '/sysreq'
 ---
+
 ## Installation
 
 Choose the plugin you want to install and click the 'Try it out' button:
