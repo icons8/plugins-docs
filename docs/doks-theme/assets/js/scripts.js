@@ -175,7 +175,7 @@
 		headings = reduceLevels( headings );
 
 		generateList( headings, true ).appendTo( '.js-sections' );
-		var ghButtonHtml = "<a href='https://github.com/icons8/lunacy-docs' id='sections-button' class='btn btn--dark btn--rounded btn--w-icon btn--github js-affix'><i class='icon icon--github' style='float: left; margin-left: 0px; margin-right: 16px'></i>Suggest Edits</a>";
+		var ghButtonHtml = "<a href='https://github.com/icons8/plugins-docs' id='sections-button' class='btn btn--dark btn--rounded btn--w-icon btn--github js-affix'><i class='icon icon--github' style='float: left; margin-left: 0px; margin-right: 16px'></i>Suggest Edits</a>";
 		var ghButton = $.parseHTML(ghButtonHtml);
 		$('.js-sections').append(ghButton);
 	}
@@ -394,7 +394,7 @@ function getCurrentNavLink() {
 	
 	for (let index = 0; index < array.length; index++) {
 		const element = array[index];
-		if (element.href == document.location.toString().split("/#")[0] || element.href + "/" == document.location) {
+		if (element.href == document.location.toString().split("/#")[0] || element.href == document.location.toString().split("/#")[0] + "/" || element.href + "/" == document.location) {
 			return element
 		}
 	}
