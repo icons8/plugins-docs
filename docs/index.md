@@ -5,9 +5,9 @@ keywords:
 comments: false
 
 # Hero section
-title: About Icons8 Figma plugins
-description: Everything you need to know about Icons8 Figma plugins
-icon:
+title: Icons8 Figma Plugins
+description: Welcome to the help page for Icons8 Figma Plugins, which include icons, illustrations, photos, Material Design Icons and Icons8 Background Remover. All three of those plugins will broaden your toolkit, speed up your workflow and generally make your Figma experience smoother. Let’s dive right in!
+icon: 'lunacy'
 
 # Micro navigation
 micro_nav: false
@@ -18,11 +18,6 @@ micro_nav: false
 #         content: System requirements
 #         url: '/sysreq'
 ---
-
-# Icons8 Figma Plugins
-
-Welcome to the help page for Icons8 Figma Plugins: **Icons8 — icons, illustrations, photos**, **Material Design Icons** and **Icons8 Background Remover**. All three of those plugins will broaden your toolkit, speed up your workflow and generally make your Figma experience smoother. Let’s dive right in!
-
 ## Installation
 
 Choose the plugin you want to install and click the 'Try it out' button:
@@ -226,7 +221,7 @@ Get images without backgrounds, but with the original image size and quality. Ke
 
 Here's a quick video of removing background from the image on a mobile browser mockup:
 
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/BG Remover_Demo.mp4" type="video/mp4"></video>
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/BG Remover_Demo 15.47.57.mp4" type="video/mp4"></video>
 
 <br>
-In case you want to use Background Remover outside of Figma, we also have a [web app]((https://icons8.com/bgremover) with the extended functionality.
+In case you want to use Background Remover outside of Figma, we also have a web app with the extended functionality, you can find it [here](https://icons8.com/bgremover/).

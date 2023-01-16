@@ -18,7 +18,7 @@
 	{% for item in site.doks.micro_nav %}
 	<li class="nav-item"><a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ item.url }}" class="not-visibly">{{ item.title }}</a></li>
 	{% endfor %}
-	<li class="suggest--github"><a href="https://github.com/icons8/lunacy-docs" class="btn btn--suggest-edit"><i class="icon icon--github"></i>Suggest edits</a></li>
+	<li class="suggest--github"><a href="https://github.com/icons8/plugins-docs" class="btn btn--suggest-edit"><i class="icon icon--github"></i>Suggest edits</a></li>
 	{% endunless %}
 	{% if page.release_note %}
 	{% for item in page.release_note %}
