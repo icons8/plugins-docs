@@ -127,7 +127,7 @@ Here's how you can add a 'lock' icon to your locked screen mockup with those fea
 
 There are both free and paid assets in our plugin. Professional users prefer SVG format that provides unlimited scaling and editing. In order to download this format you need one of our subscription plans, check them out [here](https://icons8.com/pricing).
 
-You can also download and use icons, illustrations and photos without purchasing them if you add attribution. More info on how to do this here.
+You can also download and use icons, illustrations and photos without purchasing them if you add attribution. More info on how to do this in [Universal Multimedia License Agreement for Icons8](https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-license-agreement-for-icons8).
 
 > Don’t forget to add a link if you’re using our free icons.
 
@@ -191,7 +191,7 @@ As you can see, working with icons from our Material Design is pretty easy. Here
 
 There are both free and paid assets in our plugin. Professional users prefer SVG format that provides unlimited scaling and editing. In order to download this format you need one of our subscription plans, check them out [here](https://icons8.com/pricing).
 
-You can also download and use icons, illustrations and photos without purchasing them if you add attribution. More info on how to do this here.
+You can also download and use icons, illustrations and photos without purchasing them if you add attribution. More info on how to do this in [Universal Multimedia License Agreement for Icons8](https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-license-agreement-for-icons8).
 
 > Don’t forget to add a link if you’re using our free icons.
 
